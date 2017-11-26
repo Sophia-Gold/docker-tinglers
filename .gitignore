@@ -13,7 +13,6 @@ test.main
 .gopath/
 .go-pkg-cache/
 autogen/
-bundles/
 cmd/dockerd/dockerd
 contrib/builder/rpm/*/changelog
 dockerversion/version_autogen.go
